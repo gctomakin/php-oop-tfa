@@ -1,0 +1,11 @@
+{
+  "name": "pdo-oop",
+  "version": "1.0.0",
+  "author": "Gian Carlo Tomakin",
+  "dependencies": {
+    "foundation": "~5.5.2",
+    "backbone": "~1.2.1",
+    "jqgrid": "~5.0.0",
+    "mustache": "~2.1.3"
+  }
+}
